@@ -1,3 +1,6 @@
+<h1> LAYOUT </h1>
+        <img src="assets/layout.png" id="bg-img" alt="img" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
