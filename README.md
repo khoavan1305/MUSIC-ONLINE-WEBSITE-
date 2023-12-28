@@ -1,5 +1,5 @@
 <h1> LAYOUT </h1>
-        <img src="assets/layout.png" id="bg-img" alt="img" />
+        <img src="/public/assets/layout.png" id="bg-img" alt="img" />
 
 # Getting Started with Create React App
 
